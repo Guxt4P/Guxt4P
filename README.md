@@ -65,5 +65,4 @@
 ---
 
 ### 📫 Onde me encontrar
-- Instagram: **@SEU_INSTAGRAM**
-- Email: **SEU_EMAIL@EXEMPLO.COM**
+- Email: **gustavohperess@gmail.com**
