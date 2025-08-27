@@ -1,10 +1,8 @@
-<!-- Capa / título -->
 <h1 align="center">👋 Olá, eu sou o Gustavo (Guxt4P)</h1>
 <p align="center">
-  Desenvolvedor <b>DSM</b> • Front-end • Projetos práticos com HTML/CSS/JS e APIs
+  Estudante de <b>DSM</b> | Front-end | Projetos práticos com HTML, CSS, JS e Python
 </p>
 
-<!-- Badges principais (edite os links/usuário) -->
 <p align="center">
   <a href="https://github.com/Guxt4P?tab=followers">
     <img src="https://img.shields.io/github/followers/Guxt4P?label=Seguidores&style=for-the-badge" />
@@ -18,23 +16,38 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou apaixonado por tecnologia e por construir interfaces simples e funcionais.  
-Atualmente estudando **Desenvolvimento de Software Multiplataforma** e praticando projetos como:
-- 🌦️ **App de Previsão do Tempo** (OpenWeather + JS)
-- 🛡️ Estudos e labs de **Segurança/Pentest**
-- 🧩 Mini-projetos front-end (animações, componentes e UI)
+- Estudante de **Desenvolvimento de Software Multiplataforma (DSM)**  
+- Apaixonado por tecnologia, design e segurança digital  
+- Trabalho em projetos que unem **prática** e **criatividade**  
 
 ---
 
-### 🧰 Linguagens & Tecnologias
+### 🚀 Projetos em Destaque
+- 🌦️ [**Aplicativo de Previsão do Tempo**](https://github.com/Guxt4P/Aplicativo-de-Previs-o-do-Tempo)  
+  App em HTML, CSS e JS que consome a API do OpenWeatherMap e mostra temperatura, umidade e ícone dinâmico.
+
+- 💻 [**desenvolvimento-WEB**](https://github.com/Guxt4P/desenvolvimento-WEB)  
+  Repositório com atividades e projetos da **FATEC**.
+
+- 🔐 [**loginLinux**](https://github.com/Guxt4P/loginLinux)  
+  Tela de login com visual inspirado no Linux, feita em CSS.  
+
+- 📇 [**cartão**](https://github.com/Guxt4P/cartao)  
+  Cartão com foto, nome e três botões para redes sociais.  
+
+- 🐍 [**Atividades.py**](https://github.com/Guxt4P/Atividades.py)  
+  Exercícios e experimentos em **Python**.  
+
+---
+
+### 🧰 Tecnologias que uso
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
 ---
@@ -49,19 +62,8 @@ Atualmente estudando **Desenvolvimento de Software Multiplataforma** e praticand
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxt4P&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Troféus (opcional) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guxt4P&theme=tokyonight&row=1&no-bg=true&no-frame=true" />
-</p>
-
 ---
 
-### 🚀 Projetos em destaque
-- 🌦️ [Aplicativo de Previsão do Tempo](https://github.com/Guxt4P/Aplicativo-de-Previsao-do-Tempo)
-- 📁 *(adicione aqui mais 1–2 repositórios que você quer destacar)*
-
----
-
-### 📫 Contato
-- Instagram: **@gustavohperes_**
-- Email: **gustavohperess@gmail.com**
+### 📫 Onde me encontrar
+- Instagram: **@SEU_INSTAGRAM**
+- Email: **SEU_EMAIL@EXEMPLO.COM**
